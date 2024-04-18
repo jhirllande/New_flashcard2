@@ -14,4 +14,5 @@
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-<img src="https://github.com/TiDoch/FlashCard_2/blob/main/Gif2.gif" width="200" height="400" />  
+<img src="
+" width="200" height="400" />  
