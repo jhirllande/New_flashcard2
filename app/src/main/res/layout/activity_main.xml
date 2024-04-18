@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/flashcard_question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Who is the 44th President of the United State?"
+        android:background="@drawable/card_background"
+        android:textSize="40sp" />
+
+
+    <TextView
+        android:id="@+id/flashcard_reponse"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/card_background"
+        android:gravity="center"
+        android:rotationX="23"
+        android:text="Jhirllande Alexis"
+        android:textSize="40sp"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/toggle123"
+        android:layout_width="113dp"
+        android:layout_height="73dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="45dp"
+        android:src="@drawable/iconmonstr_plus_circle_lined" />
+
+
+</RelativeLayout>
