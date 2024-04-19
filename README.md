@@ -14,5 +14,4 @@
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-<img src="
-" width="200" height="400" />  
+<img src="WhatsApp Video 2024-04-18 at 12.54.20 PM.gif" width="200" height="400" />  
