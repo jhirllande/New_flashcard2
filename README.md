@@ -1,4 +1,6 @@
-# Lab 2 : Flashcard App (Unobliviate)
+# Lab 2 : Flashcard App 
+
+Existing flashcards can be edited by selecting the card and making the desired changes to the question or answer. This flexibility ensures that the flashcards remain accurate and up-to-date.
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
